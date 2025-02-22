@@ -1,0 +1,11 @@
+*.txt
+*.csv
+*.json
+*.xml
+*.html
+*.fb2
+*.pdf
+
+out/
+files/
+is1
