@@ -1,2 +1,4 @@
+github.com/google/btree v1.1.3 h1:CVpQJjYgC4VbzxeGVHfvZrv1ctoYCAI8vbl07Fcxlyg=
+github.com/google/btree v1.1.3/go.mod h1:qOPhT0dTNdNzV6Z/lhRX0YXUafgPLFUh+gZMl761Gm4=
 github.com/reiver/go-porterstemmer v1.0.1 h1:WyERBkASXgoXrTwq/IQ6wyNj/YG7j/ZURvTuMCoud5w=
 github.com/reiver/go-porterstemmer v1.0.1/go.mod h1:Z8uL/f/7UEwaeAJNwx1sO8kbqXiEuQieNuD735hLrSU=
